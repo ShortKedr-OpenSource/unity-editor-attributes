@@ -1,5 +1,5 @@
 # Unity Editor Attributes
-Various set of custom unity attributes  
+Various set of custom Unity attributes  
 See `Assets/Scripts/Examples` scripts for how-to-use
 
 All attributes presented in this repository was made for self-use and dont have any dependencies.
