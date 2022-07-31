@@ -7,6 +7,6 @@ If you are looking for advanced stack for big project, you can check this unity-
 
 This repository will be update with new attributes from time to time.
 
-P.S.
-You can send request for new attribute in Issues section. Request will be reviewed.
+P.S.  
+You can send request for new attribute in Issues section. Request will be reviewed.  
 You can contribute to this repository
